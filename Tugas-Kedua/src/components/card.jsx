@@ -3,7 +3,7 @@ const Card = ({data}) => {
     return ( 
         <div
             style={{
-                backgroundColor: 'white',
+                backgroundColor: 'red',
                 padding: '5px',
                 borderRadius: '5px',
                 margin: '10px',
